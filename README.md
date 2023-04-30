@@ -24,16 +24,16 @@ Main components of a data warehouse (DW) for business intelligence applications.
 
 
 ## Software:
-- VS: [Visual Studio](TBA)
+- VS: [Visual Studio](https://visualstudio.microsoft.com/)
   - Comprehensive development environment for data modeling, building the data warehouse, analysis, and reporting.
-- SSMS: [SQL Server Management Studio](TBA)
+- SSMS: [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
   - Database management and administration tool for the SQL Server used in the data warehouse.
-- SSIS: [SQL Server Integration Services](TBA)
+- SSIS: [SQL Server Integration Services](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16)
   - ETL platform for extracting, transforming, and loading data into the data warehouse.
-- Excel: [Microsoft Excel](TBA)
+- Excel: [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
   - Data analysis tool supporting tabular and multidimensional analysis of data in the data warehouse.
-- SSAS: [SQL Server Analysis Services](TBA)
+- SSAS: [SQL Server Analysis Services](https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions)
   - Enables multidimensional analysis and exploration of data in the data warehouse.
-- Power BI: [Microsoft Power BI](TBA)
+- Power BI: [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   - Creation of reports and interactive dashboards with powerful visualization and data exploration capabilities.
 
