@@ -37,3 +37,6 @@ Main components of a data warehouse (DW) for business intelligence applications.
 - Power BI: [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   - Creation of reports and interactive dashboards with powerful visualization and data exploration capabilities.
 
+## README for building database and application on home system
+
+## Image of database 
