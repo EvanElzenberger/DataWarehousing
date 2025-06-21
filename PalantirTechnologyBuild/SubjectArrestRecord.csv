@@ -1,0 +1,31 @@
+﻿ArrestID,SubjectID,BadgeID,ArrestTypeID,ArrestDescription,ArrestDate,StreetAddressOfArrest,CityOfArrest,StateOfArrest,ZipcodeOfArrest
+1,15751,2001,1,Robbery,1/3/2021,1000 East Colfax,Denver,Colorado,80123
+2,15782,3001,1,Theft,2/3/2021,3439 Faraway Place,Denver,Colorado,80019
+3,15814,2002,2,Theft,8/10/2020,I-25 Mile Marker 109,Denver,Colorado,80202
+4,15845,5001,3,DUI,8/20/2020,7000 West Colfax,Lakewood,Colorado,80203
+5,15876,3002,1,Public Intoxication,3/1/2020,9292 South University,Lakewood,Colorado,80207
+6,15908,5002,1,Speeding,5/2/2020,3948 Colflax,Denver,Colorado,80110
+7,15971,1001,1,Speeding,1/1/2019,I-25 Mile Marker 209,Denver,Colorado,80204
+8,16003,1002,1,Speeding,6/27/2019,I-25 Mile Marker 206,Denver,Colorado,80233
+9,16034,1003,1,Speeding,2/17/2019,I-25 Mile Marker 204,Denver,Colorado,80210
+10,16066,1004,3,Speeding,7/22/2020,I-25 Mile Marker 212,Denver,Colorado,80222
+11,16098,2002,1,Speeding,8/9/2020,I-25 Mile Marker 211,Denver,Colorado,80211
+12,16129,2003,1,Speeding,5/15/2020,I-25 Mile Marker 204,Denver,Colorado,80204
+13,16257,2004,1,Speeding,6/26/2020,I-25 Mile Marker 213,Denver,Colorado,80205
+14,16193,2005,1,Larceny,12/21/2019,1050 W COLFAX AVE,Denver,Colorado,80203
+15,16225,3001,2,Assault,11/18/2020,1331 N SPEER BLVD,Denver,Colorado,80203
+16,16257,2002,2,Public Intoxication,12/26/2020,1331 N SPEER BLVD,Denver,Colorado,80203
+17,16289,2003,2,Burglary,12/3/2020,9029 E MISSISSIPPI AVE,Denver,Colorado,80203
+18,16321,2004,2,Burglary,10/4/2020,2260 S FEDERAL BLVD,Denver,Colorado,80203
+19,16353,2005,2,Burglary,2/2/2020,1811 S KNOX CT,Denver,Colorado,80203
+20,16129,3001,2,Burglary,8/23/2019,8400 E COLFAX AVE,Aroura,Colorado,80203
+21,16129,1003,2,Assault,9/19/2020,3255 S PARKER RD,Denver,Colorado,80203
+22,16129,1004,3,Assault,8/25/2020,3238 N CLAYTON ST,Denver,Colorado,80218
+23,16129,1005,2,Assault,5/5/2019,1879 S PENNSYLVANIA ST,Denver,Colorado,80206
+24,16257,1006,3,Assault,1/12/2020,820 S SHERMAN ST,Denver,Colorado,80206
+25,16257,3002,1,Public Intoxication,9/14/2020,5568 N HELENA CT,Denver,Colorado,80206
+26,16257,3003,1,Public Intoxication,2/25/2020,1510 N CLARKSON ST,Denver,Colorado,80206
+27,16257,3004,1,Public Intoxication,3/21/2019,700 BLOCK N FEDERAL BLVD,Denver,Colorado,80218
+28,16098,3005,1,Public Intoxication,1/18/2019,1685 S COLORADO BLVD,Denver,Colorado,80218
+29,16098,3006,1,Public Intoxication,3/22/2019,1811 S KNOX CT,Denver,Colorado,80266
+30,16098,3007,3,Robbery,3/26/2020,5090 N NOME ST,Denver,Colorado,80110

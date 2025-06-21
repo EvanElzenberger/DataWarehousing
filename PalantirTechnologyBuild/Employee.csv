@@ -1,0 +1,25 @@
+﻿BadgeID,AgencyID,JobTitleID,FirstName,LastName,Address,City,State,Zipcode
+1001,1,1,Kieran,Skiles,1771 W 72nd Ave,Denver,Colorado,80221
+1002,1,3,Elsie,Little,7351 E Warren Ave,Denver,Colorado,80231
+1003,1,3,John,Smith,6165 E Iliff Ave,Denver,Colorado,80222
+1004,1,3,Matthew,Thomas,5865 W Kentucky Ave,Denver,Colorado,80226
+1005,1,3,Avani,Pugh,7100 W 13th Ave,Denver,Colorado,80210
+1006,1,3,Charles,Bowler,940 Coronado Pky S,Denver,Colorado,80310
+2001,2,1,Jake,Mullins,5537 Yost Ct,Denver,Colorado,80239
+2002,2,3,John,Jacobs,1771 W 72nd Ave,Denver,Colorado,80221
+2003,2,3,Sarah,Hayes,6442 E Dickenson Pl,Denver,Colorado,80222
+2004,2,3,Elijah,McNeil,7100 W 13th Ave,Denver,Colorado,80211
+2005,2,3,Ned,North,3073 S Indiana St,Denver,Colorado,80210
+3001,3,1,Rick,Richards,43 S Ogden St,Denver,Colorado,80209
+3002,3,3,Mike,Hardo,9123 E Mississippi Ave,Denver,Colorado,80299
+3003,3,3,David,Shaw,5488 E 111th Dr,Denver,Colorado,80233
+3004,3,3,Nicolas,Grey,940 Coronado Pky S,Denver,Colorado,80299
+3005,3,3,Layla,Hickman,3073 S Indiana St,Denver,Colorado,80423
+3006,3,3,Jardel,Bryan,3161 Arapahoe St,Denver,Colorado,80382
+3007,3,3,Rico,Bludell,5537 Yost Ct,Denver,Colorado,80384
+3008,3,3,Tiffany,Lowry,43 S Ogden St,Denver,Colorado,80439
+3009,3,3,Sierra,Pollard,1771 W 72nd Ave,Denver,Colorado,80384
+4001,4,2,Nadine,Clark,9375 Blue Mountain Dr,Golden,Colorado,80403
+4002,4,2,Charles,Williams,630 S Dayton St,Denver,Colorado,80247
+5001,5,2,Lesia,Mark,5537 Yost Ct,Denver,Colorado,80239
+5002,5,2,Brett,Wright,3855 S Monaco Pky,Denver,Colorado,80237
