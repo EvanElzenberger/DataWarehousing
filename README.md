@@ -1,4 +1,4 @@
-[README.txt](https://github.com/user-attachments/files/20848265/README.txt)# Data Warehousing & Vizualization
+# Data Warehousing & Vizualization
 
 ## Course Description:
 Main components of a data warehouse (DW) for business intelligence applications. The course covers topics such as data modeling, combining data from different sources, and developing management reports. Students will learn how to plan, design, and build a DW, as well as analyze data and create reports and dashboards within the DW environment.
