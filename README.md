@@ -1,9 +1,9 @@
 # Data Warehousing & Vizualization
 
-## Course Description:
+## 📚 Course Description:
 Main components of a data warehouse (DW) for business intelligence applications. The course covers topics such as data modeling, combining data from different sources, and developing management reports. Students will learn how to plan, design, and build a DW, as well as analyze data and create reports and dashboards within the DW environment.
 
-## Learning Outcomes:
+## 🎯 Learning Outcomes:
 - Plan, Design, and Model the Data Warehouse (DW)
   - Utilized various software tools such as Visual Studio, Visio, Word, and Excel to create effective data models for business intelligence purposes.
 
@@ -22,7 +22,7 @@ Main components of a data warehouse (DW) for business intelligence applications.
 - Create Reports and Dashboards from the Data Warehouse (DW)
   - Developed the necessary skills to construct meaningful reports and interactive dashboards within the data warehouse environment. Utilized Visual Studio (VS) and Microsoft Power BI to create visually appealing and insightful reports and dashboards.
 
-## Software:
+## 🛠 Software:
 - VS: [Visual Studio](https://visualstudio.microsoft.com/)
   - Comprehensive development environment for data modeling, building the data warehouse, analysis, and reporting.
 - SSMS: [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
